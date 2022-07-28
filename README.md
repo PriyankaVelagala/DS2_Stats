@@ -1,4 +1,4 @@
-# Predicting Red Wine Quality using Multiple Linear Regression 
+# DS2: Predicting Red Wine Quality using Multiple Linear Regression 
 
 For full report, see: [Final-Report.pdf](https://github.com/PriyankaVelagala/Predicting-Red-Wine-Quality-using-MLR/blob/main/ds2_redwinequality%20-%20analysis.pdf)
 
