@@ -1,6 +1,9 @@
 # DS2: Predicting Red Wine Quality using Multiple Linear Regression 
+Final project for DS2-Statistics for Data Science (University of Waterloo-Data Science Certificate)
 
 For full report, see: [Final-Report.pdf](https://github.com/PriyankaVelagala/Predicting-Red-Wine-Quality-using-MLR/blob/main/ds2_redwinequality%20-%20analysis.pdf)
+
+Priyanka Velagala 
 
 # Overview 
 The chosen dataset from UCI’s Machine Learning Repository has a database of various red wines from
